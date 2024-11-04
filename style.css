@@ -4,9 +4,8 @@ body{
     margin:0px
 }
 header{
-    border-bottom: solid 2px pink;
+    border-bottom: solid 2px rgb(241, 135, 153);
     padding: 20px;
     font-size: 32px;
-    color: aliceblue;
-
+    color: rgb(3, 121, 224);
 }
